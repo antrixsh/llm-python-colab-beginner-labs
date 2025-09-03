@@ -42,7 +42,6 @@ No prior ML background required—each lab is guided and runnable end-to-end.
 | Lab 3 | RAG Basics (chunk → embed → search → cite) | <a href="https://colab.research.google.com/github/antrixsh/llm-python-colab-beginner-labs/blob/main/notebooks/Lab3_RAG_Basics_Colab.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | Lab 4 | Fine-Tuning (OpenAI SFT or local LoRA/PEFT) | <a href="https://colab.research.google.com/github/antrixsh/llm-python-colab-beginner-labs/blob/main/notebooks/Lab4_Fine_Tuning_Demo_Colab.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
-> Replace `<YOUR_GITHUB_USER_OR_ORG>` and `<YOUR_REPO_NAME>` after pushing notebooks to the `main` branch.
 
 ---
 
@@ -147,3 +146,14 @@ For noticeable gains, target **100–1000+** high-quality, consistent examples. 
 
 **Q14. Can I extend the labs?**  
 Yes—add CI hooks, logging, evals, and swap toy data for real project data. PRs to improve clarity or add datasets are welcome.
+
+---
+## 🔗 Connect & Follow
+
+For more useful hands-on labs and updates:  
+
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/antrixshgupta) 
+[![Medium](https://cdn-icons-png.flaticon.com/512/5968/5968906.png)](https://medium.com/@antrixsh)  
+
+- Connect with me on **[LinkedIn](https://www.linkedin.com/in/antrixshgupta)**  
+- Follow me on **[Medium](https://medium.com/@antrixsh)**  
