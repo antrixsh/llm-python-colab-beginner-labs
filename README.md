@@ -33,14 +33,14 @@ No prior ML background required—each lab is guided and runnable end-to-end.
 
 ---
 
-## Open in Google Colab
+## 🚀 Open in Google Colab
 
 | Lab | Description | Launch |
 |---|---|---|
-| Lab 1 | Prompting, roles, constraints, few-shot, temperature | <a href="https://colab.research.google.com/github/antrixsh/llm-python-colab-beginner-labs/blob/main/notebooks/Lab1_Prompting_with_Python_Colab.ipynb" target="_blank">Open in Colab</a> |
-| Lab 2 | Code Review Assistant (findings, diffs, pytest, PR batch) | <a href="https://colab.research.google.com/github/antrixsh/llm-python-colab-beginner-labs/blob/main/notebooks/Lab2_Code_Review_Assistant_Colab.ipynb" target="_blank">Open in Colab</a> |
-| Lab 3 | RAG Basics (chunk → embed → search → cite) | <a href="https://colab.research.google.com/github/antrixsh/llm-python-colab-beginner-labs/blob/main/notebooks/Lab3_RAG_Basics_Colab.ipynb" target="_blank">Open in Colab</a> |
-| Lab 4 | Fine-Tuning (OpenAI SFT or local LoRA/PEFT) | <a href="https://colab.research.google.com/github/antrixsh/llm-python-colab-beginner-labs/blob/main/notebooks/Lab4_Fine_Tuning_Demo_Colab.ipynb" target="_blank">Open in Colab</a> |
+| Lab 1 | Prompting, roles, constraints, few-shot, temperature | <a href="https://colab.research.google.com/github/antrixsh/llm-python-colab-beginner-labs/blob/main/notebooks/Lab1_Prompting_with_Python_Colab.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| Lab 2 | Code Review Assistant (findings, diffs, pytest, PR batch) | <a href="https://colab.research.google.com/github/antrixsh/llm-python-colab-beginner-labs/blob/main/notebooks/Lab2_Code_Review_Assistant_Colab.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| Lab 3 | RAG Basics (chunk → embed → search → cite) | <a href="https://colab.research.google.com/github/antrixsh/llm-python-colab-beginner-labs/blob/main/notebooks/Lab3_RAG_Basics_Colab.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| Lab 4 | Fine-Tuning (OpenAI SFT or local LoRA/PEFT) | <a href="https://colab.research.google.com/github/antrixsh/llm-python-colab-beginner-labs/blob/main/notebooks/Lab4_Fine_Tuning_Demo_Colab.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
 > Replace `<YOUR_GITHUB_USER_OR_ORG>` and `<YOUR_REPO_NAME>` after pushing notebooks to the `main` branch.
 
