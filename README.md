@@ -150,11 +150,12 @@ Yes—add CI hooks, logging, evals, and swap toy data for real project data. PRs
 ---
 ## 🔗 Connect & Follow
 
-For more useful hands-on labs and updates:
+For more useful hands-on labs and updates:  
 
 <a href="https://www.linkedin.com/in/antrixshgupta" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24"/>
-</a>
-<a href="https://medium.com/@antrixsh" target="_blank">
+</a> Connect with me on [LinkedIn](https://www.linkedin.com/in/antrixshgupta)  
+
+<a href="https://medium.com/@antrixshgupta" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" width="24"/>
-</a>
+</a> Or follow me on [Medium](https://medium.com/@antrixsh)  
