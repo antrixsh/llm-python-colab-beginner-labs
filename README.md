@@ -152,10 +152,6 @@ Yes—add CI hooks, logging, evals, and swap toy data for real project data. PRs
 
 For more useful hands-on labs and updates:  
 
-<a href="https://www.linkedin.com/in/antrixshgupta" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24"/>
-</a> Connect with me on [LinkedIn](https://www.linkedin.com/in/antrixshgupta)  
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20"/> Connect with me on [LinkedIn](https://www.linkedin.com/in/antrixshgupta)  
 
-<a href="https://medium.com/@antrixshgupta" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" width="24"/>
-</a> Or follow me on [Medium](https://medium.com/@antrixsh)  
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" width="20"/> Follow me on [Medium](https://medium.com/@antrixsh)  
