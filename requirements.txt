@@ -1,0 +1,9 @@
+openai>=1.40.0
+numpy
+matplotlib
+transformers
+datasets
+accelerate
+peft
+bitsandbytes
+pytest
